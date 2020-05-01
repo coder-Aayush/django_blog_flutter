@@ -1,10 +1,20 @@
-# wallpro
+# Flutter Blog using Django Rest Framework(DRF) 
 
-A new Flutter project.
+
+Able to fetch json and display in Flutter
+
+
+**Tested in Android Only.** (Contribution is will appreciated).
 
 ## Getting Started
+```dart
+git clone <repo_url>
+flutter pub get
+flutter run
 
-This project is a starting point for a Flutter application.
+// Enjoy
+
+```
 
 A few resources to get you started if this is your first Flutter project:
 
